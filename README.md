@@ -3,7 +3,7 @@
 ## **Power Dynamics of Global Philanthropy**
 ### **A Comparative Data Analysis of the Afghan and Ukrainian Refugee Crises**
 
-This is a data repository containing all datasets, analysis, and other miscellaneous code used in this capstone project.
+This is a data repository containing all datasets, analysis, and other miscellaneous code used in my capstone project.
 
 #### Data Sources: 
 Click on the links below for access to aggregated philanthropy data regarding these two refugee crises.
