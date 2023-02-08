@@ -6,7 +6,7 @@
 This is a data repository containing all datasets, analysis, and other miscellaneous code used in my capstone project.
 
 #### Data Sources: 
-Click on the links below for access to aggregated philanthropy data regarding these two refugee crises.
+Click on the links below for quick access to aggregated philanthropy data regarding these two refugee crises.
 
 ##### 🇦🇫 Afghanistan (May 2021 to May 2022)
 - Crowd Funding
