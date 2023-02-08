@@ -3,17 +3,17 @@
 ## **Power Dynamics of Global Philanthropy**
 ### **A Comparative Data Analysis of the Afghan and Ukrainian Refugee Crises**
 
-This is a data repository containing all philanthropy datasets and data analysis used in this capstone project.
+This is a data repository containing all datasets and data analysis used in this capstone project.
 
 #### Data Sources: 
-Click on the links below for access aggregated philanthropy data regarding the Afghanistan Refugee Crisis and the Ukrainian Refugee Crisis.
+Click on the links below for access to aggregated philanthropy data regarding these two refugee crises.
 
-##### 🇦🇫 Afghanistan
+##### 🇦🇫 Afghanistan (May 2021 to May 2022)
 - Crowd Funding
 - Foundations
 - Governmental
 
-##### 🇺🇦 Ukraine
+##### 🇺🇦 Ukraine (February 2022 to February 2023)
 - Crowd Funding
 - Foundations
 - Governmental
