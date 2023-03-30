@@ -34,8 +34,8 @@ Python was used as the primary vehicle to clean and transform the data. Document
 
 #### *Data Analysis*
 Three subsets of philanthropic donations were analysed in detail...
-- Crowd Funding: A method of individual donation
-- Foundations: 
+- Crowd Funding
+- Foundations
 - Governmental
 
 #### Results
