@@ -6,9 +6,11 @@
 This is a data repository containing all datasets, analysis, and other miscellaneous code/artifacts used in my capstone project.
 
 #### Key Research Questions: 
-⭐ ***How does data visualisations of the philanthropic response to the Afghan and Ukrainian Migration Crises help to uncover a "hiearchy of humanity, inequality of lives" present in the global philanthropy ecosystem?***
+Assuming that current humanitarian funding mechanisms perpetuate an asymmetrical power distribution among the Global North and Global South...
 
-⭐ ***Do current humanitarian funding mechanisms perpetuate an asymmetrical power distribution among the Global North vs. Global South, and to what extent?***
+⭐ ***How does data visualisation of the philanthropic response to the Afghan and Ukrainian Migration Crises help to uncover a "hiearchy of humanity, inequality of lives" present in the global philanthropy ecosystem?***
+
+⭐ ***To what extent does the online crowdfunding platform serve as a channel for diaspora philanthropy to help provide a solution to humanitarian funding gaps?***
 
 #### Data Sources
 - [Global Giving](https://www.globalgiving.org/)
